@@ -1,0 +1,10 @@
+# Arquivos e diretórios específicos
+mylogfile.log
+/venv/
+
+# Excluir todos os arquivos .pyc
+*.csv
+*data.csv
+
+# Excluir todos os arquivos __pycache__
+__pycache__/
